@@ -35,3 +35,6 @@ house_price_prediction/
 1. Clone the repo
 2. Install dependencies (`pip install -r requirements.txt`)
 3. Run `house_price_prediction.ipynb` for full pipeline
+4. 📬 Contact
+
+For any queries, reach me at: afsalkannu789@gmail.com
